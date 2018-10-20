@@ -1,0 +1,53 @@
+colonnes R01: 
+"Identifiant" 
+"Strate"
+"Sexe"
+"SituationFamiliale"
+"DateNaissance"
+"DateEngagement"
+"SalaireDeBase"
+"IndemniteDeResidence"
+"PrimeAnciennete"
+"SoldeIndividuelRetraite"
+"ComplementSalarial"
+---
+regle1 Strate > 0 et Strate < 12
+
+
+
+---
+colonnes R02:
+"Identifiant"
+"Type"
+"DateNaissance"
+"Sexe"
+"SituationFamiliale"
+"PensionAnnuelle"
+"ChargeFamille"
+"MajorationFamiliale"
+"NombreEnfants"
+"PensionTheorique"
+---
+colonnes R03:
+"Identifiant"
+"Catégorie"
+"Rang"
+"Date.naissance.contact"
+"Enfant.invalide"
+"Date.debut.relation"
+"Date.fin.relation"
+"Motif.fin.relation"
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
